@@ -1,0 +1,11 @@
+.in-danger {
+  background-color: red;
+}
+
+.not-in-danger {
+  background-color: yellow;
+}
+
+table {
+  width: 100%;
+}
